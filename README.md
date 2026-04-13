@@ -1,4 +1,4 @@
-## 🧮 8086 Assembly Calculator
+## 🧮 Assembly Calculator
 
 A simple and interactive calculator built using **8086 Assembly Language**.
 This project demonstrates low-level programming concepts such as user input handling, arithmetic operations, and control flow using DOS interrupts.
