@@ -85,13 +85,18 @@ README.md        # Project documentation
 * Better user interface (colors, cursor control)
 * Advanced operations (power, square root)
 
----
 
-## 👨‍💻 Author
 
-* Your Name
 
----
+![Screenshot]()
+
+
+
+
+
+
+
+  
 
 ## ⭐ Show Your Support
 
